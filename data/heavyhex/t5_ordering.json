@@ -1,0 +1,7 @@
+{
+ "order": "qiskit_order",
+ "probe": {
+  "qubit0_first": 1.0,
+  "qiskit_order": -1.0
+ }
+}
